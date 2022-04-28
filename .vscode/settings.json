@@ -1,0 +1,18 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#ffffff",
+    "titleBar.activeForeground": "#000000"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  }
+}
